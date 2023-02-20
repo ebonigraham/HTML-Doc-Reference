@@ -1,0 +1,35 @@
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    font-family: monospace;
+  }
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+
+body {
+    background-color: #5BA199;
+}
+
+tbody{
+    background-color: #E5E3E4;
+    border: 3px solid black;
+}
+
+thead {
+    background-color: #BBC6C8;
+}
+
+.button {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
